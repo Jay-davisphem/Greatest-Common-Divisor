@@ -1,2 +1,5 @@
 # Greatest-Common-Divisor
-GCD/HCF in two Algorithms; \n(a) Trial and Error Algorithm \n(b) Euclid's Algorithm. \nBoth written in C.
+GCD/HCF in two Algorithms;
+(a) Trial and Error Algorithm 
+(b) Euclid's Algorithm. 
+Both written in C.
